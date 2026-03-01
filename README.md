@@ -51,3 +51,7 @@ Abaixo estão os principais endpoints disponíveis:
   "codigoBarras": "23793381286008301352856000063301",
   "valor": 250.75
 }
+
+![H2](https://github.com/user-attachments/assets/dc695810-aef1-49f9-85a6-2c8d0e8e275f)
+![postmanResponseGet](https://github.com/user-attachments/assets/6b2ca4cd-67b4-4ae6-b6dc-23fdb6993543)
+![postmanResponse](https://github.com/user-attachments/assets/f8dec6ba-adde-47d1-b170-574f60bd017d)
