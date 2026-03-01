@@ -45,12 +45,15 @@ Abaixo estão os principais endpoints disponíveis:
 | `DELETE` | `/pagamentos/{id}` | Remove um pagamento pelo ID. |
 
 ### Exemplo de JSON para Criação (POST):
+
 ```json
 {
   "favorecido": "João Silva",
   "codigoBarras": "23793381286008301352856000063301",
   "valor": 250.75
 }
+```
+
 ![postmanResponse](https://github.com/user-attachments/assets/432d4743-c1a0-4e27-a8cc-a82ab083976d)
 
 ![postmanResponseGet](https://github.com/user-attachments/assets/074492c9-9318-4174-b696-281dcec051a9)
