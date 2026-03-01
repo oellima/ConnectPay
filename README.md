@@ -53,9 +53,11 @@ Abaixo estão os principais endpoints disponíveis:
   "valor": 250.75
 }
 ```
-
+Requisição POST (Criando Pagamento)
 ![postmanResponse](https://github.com/user-attachments/assets/432d4743-c1a0-4e27-a8cc-a82ab083976d)
 
+Listagem GET (Consultando Pagamentos)
 ![postmanResponseGet](https://github.com/user-attachments/assets/074492c9-9318-4174-b696-281dcec051a9)
 
+Banco de Dados H2 Console
 ![H2](https://github.com/user-attachments/assets/494d9f30-1f1f-4606-8868-6c8bd89c4888)
